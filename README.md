@@ -6,4 +6,6 @@ line5
 
 line7
 
-topicgit-A
+topic-A
+
+topic-B
